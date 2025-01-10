@@ -1,0 +1,25 @@
+googletrans==4.0.0-rc1
+httpx==0.23.3
+httpcore==0.16.3
+langchain==0.0.225
+pinecone-client
+openai
+flask
+python-dotenv
+sentence-transformers==2.2.2
+pypdf
+ctransformer==0.2.5
+
+
+
+sentence-transformers==2.2.2
+langchain
+flask
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain_openai
+langchain_experimental
+-e .
